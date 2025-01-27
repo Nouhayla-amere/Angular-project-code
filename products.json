@@ -1,0 +1,5 @@
+
+[
+  { "id": 1, "name": "Astérix", "price": 50, "image": "asterix.jpg", "description": "Astérix est le héros courageux et rusé." },
+  { "id": 2, "name": "Obélix", "price": 60, "image": "obelix.jpg", "description": "Obélix est le fidèle ami d'Astérix, célèbre pour sa force incroyable." }
+]
